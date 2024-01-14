@@ -37,7 +37,8 @@ width: 30px;
   height: 30px;
   border-radius: 3px;
   border: none;
-  background: rgb(250, 230, 205);
+  background: rgb(53, 131, 183);
+  color:white;
   margin-right: 20px;
   cursor: pointer;
   z-index: 2;
@@ -57,3 +58,12 @@ export const StyledInput = styled.input`
  border-radius: 3px;
 `
 
+export const ButApage = styled.button`
+width: 152px;
+height:30px;
+border:none;
+font-size:15px;
+&:hover {
+  background:#777;
+}
+`

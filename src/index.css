@@ -28,6 +28,7 @@ ul {
 
 li {
   float: left;
+  
 }
 
 li a {
@@ -43,9 +44,11 @@ li a {
 li a:hover {
   color: rgb(53, 131, 183);
   border-bottom: 3px solid  rgb(53, 131, 183);
+
 }
  p{
 
   font-size: 14px;
   color: gray;
  }
+ 
